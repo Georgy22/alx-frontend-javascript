@@ -1,1 +1,1 @@
-Project done by NWANERI GEORGINIA
+## 0x02. ES6 classes
